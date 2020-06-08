@@ -4,7 +4,7 @@
 Sentiment analysis with tweet datasets
 
 ## Machine Learning Frame Work
-PyTorch <br>
+![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)
 If you do not installed pytorch, downlaod from [https://pytorch.org/get-started/locally/]
 
 ## set up
@@ -16,9 +16,10 @@ $git clone https://github.com/chanhee-kang/Twieet-sentiment-analysis-kaggle.git
 ```
 $python -m spacy download en
 ```
-3. CUDA and CUDNN (for GPU acceleration/OPTIONAL)<br>
-You need NVIDA GPU for CUDA. Please download from [https://developer.nvidia.com/cuda-toolkit-archive]
-###### (If you do not have GPU, it is perfectly ok with using CPU. CUDA and CUDNN is just option)
+3. CUDA and CUDNN (for GPU acceleration/OPTIONAL)<br><br>
+![nvidia](https://user-images.githubusercontent.com/26376653/84051534-48f9e700-a9ea-11ea-8faf-bd162daec013.png)<br><br>
+You need NVIDA GPU for CUDA. Please download from [https://developer.nvidia.com/cuda-toolkit-archive] <br>
+If you do not have GPU, it is perfectly ok with using CPU. CUDA and CUDNN is just option)
 
 4. Install the rest of modules. 
 ```
