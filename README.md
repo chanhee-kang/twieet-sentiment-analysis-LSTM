@@ -1,8 +1,10 @@
+#The file will be upload after 6.20
+
 ## Sentiment Analysis
 Sentiment analysis with tweet datasets
 
 ## set up
-1. Download this git for initiating this program.
+1. Git clone
 ```
 $git clone https://github.com/chanhee-kang/Twieet-sentiment-analysis-kaggle.git
 ```
@@ -10,13 +12,13 @@ $git clone https://github.com/chanhee-kang/Twieet-sentiment-analysis-kaggle.git
 ```
 $python -m spacy download en
 ```
-3. CUDA and CUDNN (for GPU acceleration, faster if you do)
+3. CUDA and CUDNN (for GPU acceleration/OPTIONAL)
+If you do not have GPU, it is perfectly ok with using CPU. CUDA and CUDNN is just option
 
-4. The rest of the add-on modules, if you don't want to run it, download 
+4. Install the rest of modules. 
 ```
-pip install "Library Name".
+pip install "library Name".
 ```
-(Search on Google if it doesn't download)
 
 ## File explaination
 1. model.py (network structure)
@@ -25,3 +27,11 @@ pip install "Library Name".
 4. label.pkl (stored label)
 5. best_model.pt (model weight)
 6. text.pkl (stored text)
+
+## Get Start
+
+## Limitation
+
+### Contact
+If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
+
