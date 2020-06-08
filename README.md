@@ -1,7 +1,7 @@
 #The file will be upload after 6.20
 
 # Sentiment Analysis
-Sentiment analysis with tweet datasets
+Sentiment analysis with tweet datasets using LSTM
 
 ## Machine Learning Frame Work
 ![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)
