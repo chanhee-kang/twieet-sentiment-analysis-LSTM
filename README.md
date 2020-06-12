@@ -37,11 +37,20 @@ pip install "library Name".
 
 ## Get Start
 1. USE <code>train.py</code> for training
+
 2. USE <code>test.py</code> for testing
 ```
 pred_class = predict_class(model,TEXT, "TYPE YOUT SENTENCE")
 print(f'Predicted class is:  {ix_to_label[pred_class]}')
 ```
+## Result
+1. Training <br>
+![epoch](https://user-images.githubusercontent.com/26376653/84519635-56c2ab80-ad0d-11ea-90e4-de21c8a9f4c7.PNG)
+
+2. Sentiment Analysis <br>
+LET'S type "I really really love you baby. my sweet heart" <br>
+![test](https://user-images.githubusercontent.com/26376653/84519461-182cf100-ad0d-11ea-8d7e-8d15338b6c0a.PNG)
+
 ## Limitation
 The Datasets is too low :sob: <br>
 More datasets will increase the performance
