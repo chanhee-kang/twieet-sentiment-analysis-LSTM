@@ -36,7 +36,8 @@ pip install "library Name".
 6. text.pkl (stored text)
 
 ## Get Start
-
+1. USE <code>train.py</code> for training
+2. USE <code>test.py</code> for testing
 ## Limitation
 The Datasets is too low :sob: <br>
 More datasets will increase the performance
