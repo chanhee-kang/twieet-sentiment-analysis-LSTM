@@ -36,7 +36,7 @@ model = Sentiment(len(TEXT.vocab), EMBEDDING_DIM, HIDDEN_DIM, OUTPUT_DIM, 2, 0.5
 model.to(device)
 model.load_state_dict(torch.load('best_model.pt'))
 
-pred_class = predict_class(model,TEXT, "bitch")
+pred_class = predict_class(model,TEXT, "I love you")
 
 
 
