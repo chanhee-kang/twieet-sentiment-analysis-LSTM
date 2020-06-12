@@ -4,7 +4,7 @@
 ## Datasets
 You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction]
 
-## Machine Learning Frame Work
+## Deep Learning Frame Work
 ![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)
 If you do not installed pytorch, downlaod from [https://pytorch.org/get-started/locally/]
 
