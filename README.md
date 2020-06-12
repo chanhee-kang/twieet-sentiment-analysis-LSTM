@@ -38,8 +38,10 @@ pip install "library Name".
 ## Get Start
 1. USE <code>train.py</code> for training
 2. USE <code>test.py</code> for testing
- * <code>pred_class = predict_class(model,TEXT, "TYPE YOUT SENTENCE")<code>
-   <code>print(f'Predicted class is:  {ix_to_label[pred_class]}')<code>
+```
+pred_class = predict_class(model,TEXT, "TYPE YOUT SENTENCE")
+print(f'Predicted class is:  {ix_to_label[pred_class]}')
+```
 ## Limitation
 The Datasets is too low :sob: <br>
 More datasets will increase the performance
