@@ -1,5 +1,4 @@
-# Sentiment Analysis
-Sentiment analysis with tweet datasets using LSTM.
+# Predcting Sentiment with LSTM
 <h3> :bowtie:The model will predict your sentence is postive, negative or netural!!!:bowtie: </h3>
 
 ## Datasets
