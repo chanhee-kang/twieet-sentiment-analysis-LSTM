@@ -1,5 +1,8 @@
 # Sentiment Analysis
-Sentiment analysis with tweet datasets using LSTM
+Sentiment analysis with tweet datasets using LSTM. The model will predict your sentence is postive, negative or netural!!!
+
+## Datasets
+You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction]
 
 ## Machine Learning Frame Work
 ![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)
