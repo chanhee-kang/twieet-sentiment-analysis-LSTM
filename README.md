@@ -49,6 +49,7 @@ print(f'Predicted class is:  {ix_to_label[pred_class]}')
 
 2. Sentiment Analysis <br>
 LET'S type "I really really love you baby. my sweet heart" <br>
+The model predicts the sentense as postive :) <br><br>
 ![test](https://user-images.githubusercontent.com/26376653/84519461-182cf100-ad0d-11ea-8d7e-8d15338b6c0a.PNG)
 
 ## Limitation
