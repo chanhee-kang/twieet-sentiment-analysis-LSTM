@@ -11,7 +11,7 @@ If you do not installed pytorch, downlaod from [https://pytorch.org/get-started/
 ## set up
 1. Git clone
 ```
-$git clone https://github.com/chanhee-kang/Twieet-sentiment-analysis-kaggle.git
+$git clone https://github.com/chanhee-kang/twieet-sentiment-analysis-LSTM.git
 ```
 2. Install packages
 ```
