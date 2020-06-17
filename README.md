@@ -3,6 +3,7 @@
 
 ## Datasets
 You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction]
+The file is for twieet sentiment extraction but I used for predicting sentiment
 
 ## Deep Learning Frame Work
 ![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)
