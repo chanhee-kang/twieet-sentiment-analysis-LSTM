@@ -1,5 +1,5 @@
 # Predcting Sentiment with LSTM
-<h3> :bowtie:The model will predict your sentence whether it is postive, negative or netural:bowtie: </h3>
+<h3> :bowtie:The model will predict your sentence whether it is postive, negative or netural:bowtie: :bowtie: </h3>
 
 ## Datasets
 You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction]
