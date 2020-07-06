@@ -2,11 +2,11 @@
 <h3> :bowtie:The model will predict your sentence whether it is postive, negative or netural:bowtie:</h3>
 
 ## Datasets
-You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction]
+You can download from: [https://www.kaggle.com/c/tweet-sentiment-extraction] <br>
 The file is for twieet sentiment extraction but I used for predicting sentiment
 
 ## Deep Learning Frame Work
-![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg)<br>
+![pytorch](https://user-images.githubusercontent.com/26376653/84051109-9de92d80-a9e9-11ea-887d-06113adab7c0.jpg) <br>
 If you do not installed pytorch, downlaod from [https://pytorch.org/get-started/locally/]
 
 ## set up
