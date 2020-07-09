@@ -55,7 +55,7 @@ The model predicts the sentense as postive :) <br><br>
 
 ## Limitation
 The Datasets is too low :sob: <br>
-More datasets will increase the performance.
+More datasets will increase the performance
 
 ### Contact
 If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
