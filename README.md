@@ -1,4 +1,4 @@
-# Predcting Sentiment with LSTM
+# Predcting Sentiment LSTM
 <h3>The model predicts sentence whether it is postive, negative, or netural</h3>
 
 ## Datasets
